@@ -1,2 +1,2 @@
 # Freelancer-web
-Web created for learning HTML and CSS basics
+preview of the page on https://freelancer-juan-web.netlify.app
